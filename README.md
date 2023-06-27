@@ -8,7 +8,9 @@ https://www.csr.gov.in/
 
 **Following are the key-steps for web-crawling of CSR data from the portal: **
 1). List of all the listed and unlisted companies from the portal (Copy & Paste) into excel sheets.
+
 2). In above step we will get names of the companies. These names will help to extract CIN from the portal (web-crawling).
+
 3). Next from this list of CIN (companies) can be used to crawl data for corresponding financial year(s): 2019-20 and collect data for following columns:
     i.	CIN
     ii.	Name of the Company
@@ -32,7 +34,9 @@ https://www.csr.gov.in/
     xx.	Mode of Implementation
 
 4). Crawling codes can be run in multiple parts (or batches) for 22,531 CIN (companies).
+
 5). Perform merging and appending of data to used for further analysis
+
 6). Next, we can also add data from different other sources to enhance our further analysis. Following is the list of additional data: 
     I.	Social Sector Expenditure
     II.	Health-Infrastructure
